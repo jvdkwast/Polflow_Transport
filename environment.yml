@@ -1,0 +1,6 @@
+name: wqmodelling
+channels:
+  - defaults
+dependencies:
+  - pcraster
+  - jupyterlab
